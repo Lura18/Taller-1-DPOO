@@ -1,0 +1,13 @@
+tipo:sinPlomo:3800:93.0
+tipo:Premium:5600:43.0
+tipo:regular:2500:45.0
+tipo:conEtanol:3400:25.0
+surtidor:Andres:sinPlomo:0.0:Premium:0.0:regular:0.0:conEtanol:0.0
+surtidor:Sofia:sinPlomo:0.0:Premium:0.0:regular:0.0:conEtanol:0.0
+surtidor:Leonardo:sinPlomo:0.0:Premium:22.0:regular:0.0:conEtanol:0.0
+surtidor:Leonardo:sinPlomo:0.0:Premium:0.0:regular:5.0:conEtanol:0.0
+empleado:Leonardo:135700
+empleado:Andres:0
+empleado:Sofia:0
+empleado:Sebastian:0
+empleado:Martha:0
